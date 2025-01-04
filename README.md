@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshgahankar
 - 👀 I’m interested in football, and graphic designing
-- 🌱 I’m currently learning CSS and JS
+- 🌱 I Have Learned Html Css Js Python C C++
 - 📫 How to reach me gmail:harshhhgahankar@gmail.com
 - 😄 Pronouns: male
 - ⚡ Fun fact: i am a 1st year student
