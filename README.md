@@ -51,29 +51,56 @@ I’m a Computer Engineering student from Mumbai passionate about building impac
 
 ---
 
-# 🚀 Featured Projects  
+# 🚀 Featured Projects
 
-## 🧾 ClauseWise  
-AI-powered contract intelligence platform that simplifies agreements into plain English, detects risky clauses, and generates smart summaries using BERT-based NLP pipelines.
+## 🧾 ClauseWise
 
-### Tech Used  
-`React` `Tailwind` `Flask` `Python` `BERT` `NLP`
+AI-powered contract intelligence platform that simplifies legal agreements into plain English, detects risky clauses, highlights obligations, and generates intelligent summaries using advanced NLP pipelines.
 
----
+### Tech Used
 
-## 🏗️ SiteOps  
-Smart construction management platform featuring geofencing, workforce verification, attendance tracking, and operational transparency systems.
-
-### Tech Used  
-`Flutter` `FastAPI` `Python` `Geofencing`
+`React` `Tailwind CSS` `Flask` `Python` `BERT` `NLP`
 
 ---
 
-## 🛡️ CyberResQ  
-Cyber safety ecosystem focused on scam detection, phishing analysis, data breach monitoring, and digital risk awareness.
+## 🏗️ SiteOps
 
-### Tech Used  
-`AI` `Cybersecurity` `Web Development`
+Smart construction workforce management platform featuring geofencing, facial verification, attendance tracking, wage monitoring, inventory management, and operational transparency for contractors and workers.
+
+### Tech Used
+
+`Flutter` `FastAPI` `Python` `SQLite` `OpenCV` `Geofencing`
+
+---
+
+## 🌡️ ThermaCity
+
+Urban Heat Island analysis and mitigation planning platform for Mumbai that combines satellite imagery, thermal data overlays, machine learning analytics, and interactive mapping to identify heat hotspots and support climate-resilient urban planning.
+
+### Tech Used
+
+`React` `FastAPI` `Python` `Machine Learning` `GIS` `Remote Sensing`
+
+---
+
+## 🎯 SkillOrbit
+
+AI-powered recruitment intelligence platform that analyzes candidate profiles, matches them against job requirements, ranks applicants using ensemble machine learning models, and provides explainable hiring insights for recruiters.
+
+### Tech Used
+
+`React` `FastAPI` `Python` `Machine Learning` `NLP` `Vector Search`
+
+---
+
+## 📚 Skillo
+
+Intelligent learning and skill development platform designed to help students and professionals discover learning paths, track progress, build industry-relevant skills, and accelerate career growth through personalized recommendations.
+
+### Tech Used
+
+`React` `FastAPI` `Python` `AI` `Learning Analytics` `Recommendation Systems`
+
 
 ---
 
